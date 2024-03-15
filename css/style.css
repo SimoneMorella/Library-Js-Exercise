@@ -5,9 +5,6 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-    border: 1px solid red;
-}
 
 ::backdrop {
     transition: 0.3s ease-in-out;
